@@ -1,6 +1,6 @@
-#Financial and Voting Data Analysis for Module 3 Challenge
+# Financial and Voting Data Analysis for Module 3 Challenge
 
-##Overview of Financial Records Analysis
+## Overview of Financial Records Analysis
 The financial data analysis was conducted using Python scripting, leveraging essential data manipulation tools. Key metrics extracted from the data included:
 - The count of months covered.
 - Net total of profits and losses.
@@ -9,7 +9,7 @@ The financial data analysis was conducted using Python scripting, leveraging ess
 - Peak increases and decreases in profits.
 The results were not only displayed on-screen but were also recorded in a dedicated text file.
 
-##Election Data Analysis Overview
+## Election Data Analysis Overview
 The project aimed to modernize the vote counting process for a town by analyzing voting records, which comprised ballot IDs, counties, and candidate names. The analysis facilitated:
 - Total vote count.
 - Individual candidate vote totals.
